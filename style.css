@@ -3,3 +3,11 @@ body {
     font-family: 'Libre Baskerville', serif;
     font-family: 'Poppins', sans-serif;
 }
+
+#bungkus {
+    margin: auto;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 50vh;
+}
